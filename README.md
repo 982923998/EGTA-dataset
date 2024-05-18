@@ -1,5 +1,4 @@
 # EGTA-dataset
+This repository is intended for sharing the E-GTA dataset, which is used for crowd emotion detection. Below are temporary download links for some portions of the dataset:
 
-这个仓库用于共享数据集E-GTA，用于群体情绪检测。部分数据集的临时下载链接如下：
-
-完整的数据集将会在文章录取后公布。
+The complete dataset will be made publicly available upon acceptance of the paper.
